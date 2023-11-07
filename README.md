@@ -1,5 +1,10 @@
 # lottery.aleo
 
+## My discord
+
+vitcrpt
+or vitcrpt#8339
+
 ## Run Guide
 
 To run this program, run:
